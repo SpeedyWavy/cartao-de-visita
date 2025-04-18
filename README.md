@@ -1,1 +1,2 @@
-# cartao-de-visita
+se eu lembrar de ver isso, pra dar deploy no bglh tem q usar o vercel
+[text](https://vercel.com/new/clone?demo-description=Vite%2FReact%20site%20that%20can%20be%20deployed%20to%20Vercel&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F21Fjmtaeaj1PT6YLXEOcNf%2Fbde1f4c53a829ddcd14c7600bcd710d1%2FCleanShot_2024-08-20_at_09.08.19_2x.png&demo-title=Vite%20-%20React&demo-url=https%3A%2F%2Fvite-react-example.vercel.app%2F&from=templates&project-name=Vite%20-%20React&repository-name=vite-react&repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fvite-react&skippable-integrations=1)
